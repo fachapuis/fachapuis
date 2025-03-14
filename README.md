@@ -5,8 +5,4 @@
 
 ## 📬 Contact Me 
 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/fabiano-chapuis-de-oliveira/)
-📧 [Email](mailto:fabiano.chapuis@gmail.com)
-
-## 📬 Contact Me  
-📩 **Email:** [fabiano.chapuis@gmail.com](mailto:your@email.com)  
-💼 **LinkedIn:** [linkedin.com/in/yourname]([(https://www.linkedin.com/in/fabiano-chapuis-de-oliveira/)]) 
+📧 **Email:** [Email](mailto:fabiano.chapuis@gmail.com)
